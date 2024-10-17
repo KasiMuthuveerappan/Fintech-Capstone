@@ -1,4 +1,4 @@
-<h1 align='center'> <font color='grey'><font size=8>💸💵Fintech:<font color="green"><b>Loan Defaulters</font>💵💸</b></font> </font></h1>
+<h1 align='center'> <font color='grey'><font size=8>💸💵Fintech Capestone - <font color="green"><b> Loan Defaulters - EDA </font>💵💸</b></font> </font></h1>
 
 <h2 align='right'>Analysed by : <font color='green'><b> KASI </b></font></h2>
 
